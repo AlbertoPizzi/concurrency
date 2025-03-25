@@ -4,28 +4,43 @@
 
 
 1. [Introduction](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/introduction.html)
-3. [Introduction to Thread Programming](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/intro_java_rust.html)
-4. [Parallelism](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/parallel.html)
-5. [Mutual Exclusion](http://htmlpreview.github.io/?https://github.com/FacultadDeIngenieria/concurrency/blob/main/slides/mutex.html)
-6. [Concurrency Abstractions - Part 1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/abstractions1.html)
-7. [Concurrency Abstractions - Part 2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/abstractions2.html)
-8. **Primer Parcial**
-9. [Mutex Implementation](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/mutex-implementation.html)
+2. [Introduction to Thread Programming](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/intro_java_rust.html)
+3. [Parallelism](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/parallel.html)
+4. [Mutual Exclusion](http://htmlpreview.github.io/?https://github.com/FacultadDeIngenieria/concurrency/blob/main/slides/mutex.html)
+5. [Concurrency Abstractions - Part 1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/abstractions1.html)
+6. [Concurrency Abstractions - Part 2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/abstractions2.html)
+7. [Mutex Implementation](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/mutex-implementation.html)
+8. **Clase de Consulta**
+9. **Primer Parcial**
 10. [Non Blocking Algorithms](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/nonblocking.html)
 11. [Actors Part1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.html)
 12. [Actors Part2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.html)
 13. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/async.html)
-14. **Segundo Parcial**
+14. **Clase de Consulta**
+15. **Segundo Parcial**
+16. **Presentacion de Tps**
+17. **Recuperatorio**
 
 
 ### Calendario
 Martes de 16 a 19
 
-1. 11 Marzo
-2. 18 Marzo
-3. 25 Marzo
-
-Finales: 28 Jun y  12 Julio
+- 1: 11 Marzo
+- 2 y 3: 18 Marzo
+- 4: 25 Marzo
+- 5: 1 Abril
+- 6: 8 Abril
+- 7: 15 Abril
+- 8: 22 Abril 
+- 9: 29 Abril
+- 10: 6 Mayo
+- 11: 13 Mayo
+- 12: 20 Mayo
+- 13: 27 Mayo
+- 14: 3 Junio
+- 15: 10 Junio
+- 16: 17 Junio
+- 17: 24 Junio
 
 ## Environment setup:
 
