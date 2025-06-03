@@ -13,9 +13,9 @@
 8. **Clase de Consulta**
 9. **Primer Parcial**
 10. [Non Blocking Algorithms](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/nonblocking.html)
-11. [Actors Part1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.html)
-12. [Actors Part2](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.html)
-13. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/async.html)
+11. [Asynchronicity](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/async.html)
+12. [Actors Part1](https://raw.githack.com/FacultadDeIngenieria/concurrency/main/slides/actors1.html)
+13. **Actors Part2**
 14. **Clase de Consulta**
 15. **Segundo Parcial**
 16. **Presentacion de Tps**
